@@ -51,12 +51,12 @@ I love building systems that combine functionality, automation, and performance 
 
 | Project | Description | Tech |
 |----------|--------------|------|
-| 🧩 [Web Bridges Solutions](#) | Business management platform connecting digital services with automation | Laravel, Next.js |
-| 🏥 [Hospital Management System (HMS)](https://github.com/halikhan/Hospital-Management-System-HMS) | A complete hospital management solution with admin panel | Laravel, TypeScript |
-| 🛒 [E-Commerce Frontend](#) | Modern, responsive e-commerce interface with optimized UX | Next.js, Tailwind |
+| 🧩 [Web Bridges](#) | Business management platform connecting digital services with automation | Laravel, Next.js |
+| 🏥 [Hospital Management System](https://github.com/halikhan/Hospital-Management-System-HMS) | A complete hospital management solution with admin panel | Laravel, TypeScript |
+| 🛒 [E-Commerce](#) | Modern, responsive e-commerce interface with optimized UX | Next.js, Tailwind |
 | 🧊 [Dynamic Ice Tube](#) | Fleet & inventory management with analytics dashboard | Laravel, Vue.js |
 | 🛍️ [ShopEasy](#) | E-commerce backend with inventory and order tracking | Laravel, Vue.js |
-| ✅ [TaskManager Backend](https://github.com/halikhan/TaskManager-Laravel-Backend) | RESTful task management API with authentication | Laravel |
+| ✅ [Tasks Manager ](https://github.com/halikhan/TaskManager-Laravel-Backend) | RESTful task management API with authentication | Laravel |
 
 > 🔗 *Each project includes documentation, setup steps, and sample data for quick testing.*
 
