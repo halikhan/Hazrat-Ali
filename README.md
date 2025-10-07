@@ -3,7 +3,7 @@
 <h1 align="center">👋 Hey there, I'm Hazrat Ali</h1>
 
 <h3 align="center">
-💻 Fullstack Laravel Developer | ⚡ Next.js | 🌐 RESTful APIs | 🧠 Vue.js | ⚙️ React.js
+💻 Fullstack Laravel Developer | ⚡ Next.js | 🌐 RESTful APIs | 🧠 Vue.js | React.js  | ⚙️ MCP | n8n automations
 </h3>
 
 <p align="center">
