@@ -23,7 +23,7 @@
 
 ### 🧑‍💻 About Me
 
-I’m **Hazrat Ali**, a **Fullstack Laravel Developer** with **3+ years of experience** designing and building scalable, high-performance web applications using **Laravel**, **Next.js**, and **RESTful APIs**.  
+I’m **Hazrat Ali**, a **Fullstack Laravel Developer** with **4+ years of experience** designing and building scalable, high-performance web applications using **Laravel**, **Next.js**, and **RESTful APIs**.  
 
 Currently, I’m part of **Avrio Global**, where I lead backend development for **Dynamic Ice Cube** — an intelligent fleet and inventory management system that tracks vehicles, monitors stock, and provides live analytics.  
 
