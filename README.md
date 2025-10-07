@@ -22,10 +22,10 @@
 
 ### 🧑‍💻 About Me
 
-I’m a **Fullstack Web Developer** with 3+ years of experience crafting scalable and user-friendly applications using **Laravel**, **Next.js**, and **RESTful APIs**.  
-Currently working at **Avrio Global**, where I develop **Dynamic Ice Tube** — a smart fleet and inventory management system with live analytics.
+I’m a **Fullstack Web Developer** with 3+ years of experience building scalable and user-focused applications using **Laravel**, **Next.js**, and **RESTful APIs**.  
+Currently working at **Avrio Global**, where I lead the backend for **Dynamic Ice Tube** — a smart fleet and inventory management system with live analytics.
 
-I enjoy transforming business ideas into digital solutions that are fast, functional, and maintainable.
+I love building systems that combine functionality, automation, and performance — turning ideas into reliable digital products.
 
 ---
 
@@ -51,23 +51,23 @@ I enjoy transforming business ideas into digital solutions that are fast, functi
 
 | Project | Description | Tech |
 |----------|--------------|------|
-| 🧊 [Dynamic Ice Tube](#) | Fleet & inventory management system with analytics dashboard | Laravel, Vue.js |
-| ✅ [Task Manager API](#) | RESTful task management backend with auth & roles | Laravel |
-| ♻️ [Aroundrs](#) | Smart container tracking platform for reusable logistics | Laravel, Vue.js |
-| 🏥 [Insaf Medical Complex](#) | Hospital management system for appointments & billing | Laravel |
-| 💻 [CRUD Next.js](#) | Simple CRUD app built with Next.js and TypeScript | Next.js |
-| 📚 [Book Review API](#) | Book review platform with Node.js & Express | Node.js |
+| 🧩 [Web Bridges Solutions](#) | Business management platform connecting digital services with automation | Laravel, Next.js |
+| 🏥 [Hospital Management System (HMS)](https://github.com/halikhan/Hospital-Management-System-HMS) | A complete hospital management solution with admin panel | Laravel, TypeScript |
+| 🛒 [E-Commerce Frontend](#) | Modern, responsive e-commerce interface with optimized UX | Next.js, Tailwind |
+| 🧊 [Dynamic Ice Tube](#) | Fleet & inventory management with analytics dashboard | Laravel, Vue.js |
+| 🛍️ [ShopEasy](#) | E-commerce backend with inventory and order tracking | Laravel, Vue.js |
+| ✅ [TaskManager Backend](https://github.com/halikhan/TaskManager-Laravel-Backend) | RESTful task management API with authentication | Laravel |
 
-> 🔗 *Each project includes documentation, setup instructions, and screenshots.*
+> 🔗 *Each project includes documentation, setup steps, and sample data for quick testing.*
 
 ---
 
 ### 💡 Currently Exploring
 
-- 🧠 **AI Automation with n8n + LLMs**  
+- 🧠 **AI Automation using n8n + LLMs**  
 - 💳 **Connected Stripe Account Integrations**  
 - ☁️ **Scalable Fullstack Architecture (Laravel + Next.js)**  
-- 🤝 **Open-source collaboration in Laravel ecosystem**
+- 🤝 **Open-source collaboration in Laravel & automation tools**
 
 ---
 
@@ -75,7 +75,7 @@ I enjoy transforming business ideas into digital solutions that are fast, functi
 
 > “Write code that’s clean, scalable, and purposeful — because great software solves real problems.”
 
-I focus on writing maintainable backend logic, reusable components, and intuitive APIs that bridge front-end and business goals.
+I focus on writing maintainable backend logic, reusable components, and robust APIs that empower front-end teams and business growth.
 
 ---
 
