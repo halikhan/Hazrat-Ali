@@ -59,6 +59,7 @@ My goal is to craft applications that combine **efficiency**, **performance**, a
 | 🛒 [E-Commerce](#) | Modern, responsive e-commerce interface with optimized UX | Next.js, Tailwind |
 | 🧊 [Dynamic Ice Tube](#) | Fleet & inventory management with analytics dashboard | Laravel, Vue.js |
 | 🛍️ [ShopEasy](#) | E-commerce backend with inventory and order tracking | Laravel, Vue.js |
+| ✅ [StudyDE ](studyde.webbridgers.com) | Complete Guide and Student Portal to Move Germany | Laravel & Next.js |
 | ✅ [Tasks Manager ](https://github.com/halikhan/TaskManager-Laravel-Backend) | RESTful task management API with authentication | Laravel |
 
 > 🔗 *Each project includes documentation, setup steps, and sample data for quick testing.*
