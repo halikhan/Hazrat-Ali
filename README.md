@@ -215,9 +215,6 @@ I welcome opportunities to collaborate on software engineering, backend developm
 </p>
 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=halikhan&label=Profile%20Views&color=0A7F70&style=flat" alt="Profile views" />
-</p>
 
 <p align="center">
   <i>Building practical software today. Exploring intelligent systems for tomorrow.</i>
